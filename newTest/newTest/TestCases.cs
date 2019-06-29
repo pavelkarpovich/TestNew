@@ -10,6 +10,7 @@ namespace newTest
     [TestFixture]
     class TestCases
     {
+        [TestCase]
         public void CheckMath()
         {
             Math math = new Math();
