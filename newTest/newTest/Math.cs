@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace newTest
 {
-    public class Class1
+    public class Math
     {
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
